@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Lucas adriel, tenho 19 anos e sou natural de Minas Gerais. Concluí o ensino médio na E.E. de Montalvânia. Atualmente, estou procurando emprego de desenvolvedor fullStack. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu Instagram "[Lucas adriel](([https://www.instagram.com/lucas_adrian3467]/))".
+Me chamo Lucas adriel, tenho 19 anos e sou natural de Minas Gerais. Concluí o ensino médio na E.E. de Montalvânia. Atualmente, estou procurando emprego de desenvolvedor fullStack. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu Instagram "[Lucas adriel]([https://www.instagram.com/lucas_adrian3467]/)".
 
 <p align="left">
     <a/>
