@@ -1,66 +1,142 @@
 <div align="center">
+
+  <!-- BANNER -->
+  <img src="./banner-anime.png" width="100%" alt="Lucas Adriel - Developer Banner"/>
+
+  <br><br>
+
   <h1>👨‍💻 Lucas Adriel</h1>
-  <p><b>Desenvolvedor FullStack & Mobile | Cursando Análise e Desenvolvimento de Sistemas (UniFECAF)</b></p>
-  
-  <a href="https://www.instagram.com/lucas_adrian3467" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+
+  <h3>
+    FullStack & Mobile Developer
+  </h3>
+
+  <p>
+    <b>
+      Transformando ideias em código, produtos e experiências digitais.
+    </b>
+  </p>
+
+  <br>
+
+  <!-- SOCIAL -->
+  <a href="https://github.com/lucasmjv1">
+    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://github.com/lucasmjv1?tab=repositories&sort=stargazers">
-    <img src="https://custom-icon-badges.demolab.com/github/stars/lucasmjv1?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas" alt="Estrelas GitHub" />
+
+  <a href="https://www.instagram.com/lucas_adrian3467">
+    <img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://github.com/lucasmjv1?tab=followers">
-    <img src="https://custom-icon-badges.demolab.com/github/followers/lucasmjv1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" alt="Seguidores GitHub" />
+
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</div>
 
-<br />
+  <br><br>
 
-## 🚀 Sobre Mim
+  <img src="https://komarev.com/ghpvc/?username=lucasmjv1&label=Profile%20Views&color=6e40c9&style=for-the-badge" />
 
-Olá! Me chamo **Lucas Adriel**, tenho 19 anos, sou natural de Minas Gerais e apaixonado por criar soluções tecnológicas impactantes.
-
-- 🎓 Cursando **Análise e Desenvolvimento de Sistemas** na **UniFECAF**.
-- 🛠️ Foco atual no desenvolvimento de aplicações **FullStack e Mobile**.
-- 📱 Experiência em projetos práticos com **Flutter, React, Node.js e Firebase**.
-- 📢 Compartilho minha jornada no ecossistema tech através do Instagram.
-
----
-
-## 🛠️ Tecnologias e Ferramentas
-
-### **Frontend & Mobile**
-<p align="left">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</p>
-
-### **Backend & Banco de Dados**
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-</p>
-
----
-
-## 📊 Estatísticas no GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasmjv1&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" alt="Estatísticas do GitHub" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmjv1&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" alt="Linguagens mais usadas" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucasmjv1&theme=tokyonight" alt="Sequência de Contribuições" />
 </div>
 
 ---
 
-<div align="center">
-  <sub>Desenvolvido por Lucas Adriel 🚀</sub>
+## 🧑‍💻 Sobre Mim
+
+Olá! Eu sou **Lucas Adriel**, desenvolvedor em formação apaixonado por tecnologia, desenvolvimento de software e criação de produtos digitais.
+
+🎓 Cursando **Análise e Desenvolvimento de Sistemas — UniFECAF**
+
+💻 Foco em **desenvolvimento FullStack e Mobile**
+
+🚀 Construindo projetos para transformar ideias em soluções reais.
+
+📱 Experiência prática com **React, Flutter, JavaScript, Node.js e Firebase**
+
+🧠 Atualmente aprimorando minhas habilidades em arquitetura, APIs, bancos de dados e desenvolvimento de aplicações.
+
+> **"Code. Build. Learn. Repeat."**
+
+---
+
+## ⚡ Tech Stack
+
+### 🎨 Frontend & Mobile
+
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,flutter,dart" />
+
 </div>
+
+### ⚙️ Backend & Database
+
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=nodejs,python,java,firebase,mongodb,mysql" />
+
+</div>
+
+### 🛠️ Tools & Environment
+
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux" />
+
+</div>
+
+---
+
+## 🚀 Projetos em Destaque
+
+<div align="center">
+
+<a href="https://github.com/lucasmjv1">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=lucasmjv1&repo=SEU_REPOSITORIO&theme=tokyonight&hide_border=true" />
+
+</a>
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasmjv1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmjv1&layout=compact&theme=tokyonight&langs_count=8&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lucasmjv1&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lucasmjv1&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+
+</div>
+
+---
+
+## 🧠 Currently Learning
+
+```text
+▸ FullStack Development
+▸ Mobile Development
+▸ Software Architecture
+▸ REST APIs
+▸ Database Design
+▸ Clean Code
+▸ UI/UX
