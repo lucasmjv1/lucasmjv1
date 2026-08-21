@@ -167,37 +167,6 @@ Olá! Eu sou **Lucas Adriel**, desenvolvedor em formação apaixonado por tecnol
 
 ---
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=lucasmjv1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&locale=pt-br"
-    alt="GitHub Statistics"
-  />
-
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmjv1&layout=compact&theme=tokyonight&langs_count=8&hide_border=true&locale=pt-br"
-    alt="Most Used Languages"
-  />
-
-</div>
-
-<br>
-
-<div align="center">
-
-  <img
-    src="https://streak-stats.demolab.com?user=lucasmjv1&theme=tokyonight&hide_border=true"
-    alt="GitHub Contribution Streak"
-  />
-
-</div>
-
----
-
 # 📈 Contribution Graph
 
 <div align="center">
