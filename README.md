@@ -79,13 +79,12 @@ Olá! Eu sou **Lucas Adriel**, desenvolvedor em formação apaixonado por tecnol
 > **"Code. Build. Learn. Repeat."**
 
 ---
-
 # ⚡ Perfil
 
 <table>
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🧑‍💻 Desenvolvedor
 
@@ -101,23 +100,26 @@ Mobile Developer
 
 🚀 Sempre evoluindo
 
+---
 
+# 🛠️ Tech Stack
 
-<table>
-<tr>
+<div align="center">
 
-<td width="50%">
+### 🎨 Frontend & Mobile
 
-### 🧑‍💻 Desenvolvedor
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,flutter,dart" />
 
-```text
-Lucas Adriel
+<br><br>
 
-FullStack Developer
-Mobile Developer
+### ⚙️ Backend & Database
 
-🎓 ADS — UniFECAF
+<img src="https://skillicons.dev/icons?i=nodejs,python,java,firebase,mongodb,mysql,postgres" />
 
-📍 Minas Gerais, Brasil
+<br><br>
 
-🚀 Sempre evoluindo
+### 🔧 Tools & Environment
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux,docker" />
+
+</div>
