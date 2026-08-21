@@ -88,7 +88,6 @@ Olá! Eu sou **Lucas Adriel**, desenvolvedor em formação apaixonado por tecnol
 
 ### 🧑‍💻 Desenvolvedor
 
-
 Lucas Adriel
 
 FullStack Developer
@@ -172,6 +171,37 @@ Mobile Developer
 />
 
 <br><br>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=lucasmjv1&theme=tokyo-night&hide_border=true&area=true"
+  width="95%"
+  alt="Contribution Graph"
+/>
+
+</div>
+
+---
+
+# 🎯 Atualmente Aprendendo
+
+<div align="center">
+
+| 🚀 Área | 🎯 Foco |
+|:---:|:---|
+| 💻 **FullStack** | React + Node.js |
+| 📱 **Mobile** | Flutter + Dart |
+| ⚙️ **Backend** | APIs + Firebase |
+| 🗄️ **Database** | SQL + NoSQL |
+| 🏗️ **Architecture** | Clean Code + boas práticas |
+| 🎨 **UI/UX** | Interfaces modernas |
+
+</div>
 
 <img
   src="https://github-readme-streak-stats.herokuapp.com/?user=lucasmjv1&theme=tokyonight&hide_border=true"
