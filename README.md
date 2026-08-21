@@ -101,14 +101,23 @@ Mobile Developer
 
 🚀 Sempre evoluindo
 
-### 🧠 Mindset
+
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 🧑‍💻 Desenvolvedor
+
 ```text
-<div align="center">
-"Disciplina vence motivação."
-<br>
+Lucas Adriel
 
-Código transforma ideias em realidade.
+FullStack Developer
+Mobile Developer
 
-Persistência constrói o extraordinário.
+🎓 ADS — UniFECAF
 
-</div>
+📍 Minas Gerais, Brasil
+
+🚀 Sempre evoluindo
