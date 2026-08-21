@@ -100,3 +100,15 @@ Mobile Developer
 📍 Minas Gerais, Brasil
 
 🚀 Sempre evoluindo
+
+### 🧠 Mindset
+```text
+<div align="center">
+"Disciplina vence motivação."
+<br>
+
+Código transforma ideias em realidade.
+
+Persistência constrói o extraordinário.
+
+</div>
