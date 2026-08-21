@@ -1,24 +1,36 @@
 <div align="center">
 
-<img
- width="100%"
- src="https://github.com/user-attachments/assets/20e9fd00-c94b-465b-8218-f2d1d531677c"
- alt="Lucas Adriel - Developer Banner"
-/>
+  <!-- ===================================================== -->
+  <!-- BANNER -->
+  <!-- ===================================================== -->
 
-<br><br>
+  <img
+    src="https://github.com/user-attachments/assets/20e9fd00-c94b-465b-8218-f2d1d531677c"
+    width="100%"
+    alt="Lucas Adriel Developer Banner"
+  />
 
-  <h1>👨‍💻 Lucas Adriel</h1>
+  <br><br>
 
-  <h3>FullStack & Mobile Developer</h3>
+  <!-- ===================================================== -->
+  <!-- INTRO -->
+  <!-- ===================================================== -->
+
+  # 👨‍💻 Lucas Adriel
+
+  ### FullStack & Mobile Developer
 
   <p>
-    <b>
+    <strong>
       Transformando ideias em código, produtos e experiências digitais.
-    </b>
+    </strong>
   </p>
 
   <br>
+
+  <!-- ===================================================== -->
+  <!-- SOCIAL -->
+  <!-- ===================================================== -->
 
   <a href="https://github.com/lucasmjv1">
     <img
@@ -34,14 +46,12 @@
     />
   </a>
 
-<img
- src="https://komarev.com/ghpvc/?username=lucasmjv1&label=PROFILE%20VIEWS&color=6e40c9&style=for-the-badge"
- alt="Profile Views"
-/>
+  <img
+    src="https://komarev.com/ghpvc/?username=lucasmjv1&label=PROFILE%20VIEWS&color=6e40c9&style=for-the-badge"
+    alt="Profile Views"
+  />
 
 </div>
-
-<br>
 
 ---
 
@@ -59,8 +69,6 @@ Olá! Eu sou **Lucas Adriel**, desenvolvedor em formação apaixonado por tecnol
 
 🧠 Atualmente aprimorando meus conhecimentos em **arquitetura de software, APIs, bancos de dados e desenvolvimento de aplicações escaláveis**.
 
-<br>
-
 > **"Code. Build. Learn. Repeat."**
 
 ---
@@ -70,49 +78,48 @@ Olá! Eu sou **Lucas Adriel**, desenvolvedor em formação apaixonado por tecnol
 <table>
   <tr>
 
-```
-<td width="50%" valign="top">
-```
+    <td width="50%" valign="top">
 
-### 🧑‍💻 Desenvolvedor
+      <h3>🧑‍💻 Desenvolvedor</h3>
 
-**Lucas Adriel**
+      <p>
+        <strong>Lucas Adriel</strong>
+      </p>
 
-FullStack Developer
-Mobile Developer
+      <p>
+        FullStack Developer<br>
+        Mobile Developer
+      </p>
 
-🎓 **ADS — UniFECAF**
+      <p>
+        🎓 ADS — UniFECAF<br>
+        📍 Minas Gerais, Brasil<br>
+        🚀 Sempre evoluindo
+      </p>
 
-📍 **Minas Gerais, Brasil**
+    </td>
 
-🚀 **Sempre evoluindo**
+    <td width="50%" valign="top">
 
-```
-</td>
+      <h3>🧠 Mindset</h3>
 
-<td width="50%" valign="top">
-```
+      <p>
+        <strong>"Disciplina vence motivação."</strong>
+      </p>
 
-### 🧠 Mindset
+      <p>
+        Código transforma ideias em realidade.
+      </p>
 
-> **"Disciplina vence motivação."**
+      <p>
+        Persistência constrói o extraordinário.
+      </p>
 
-<br>
+      <p>
+        <em>— Lucas Adriel</em>
+      </p>
 
-Código transforma ideias em realidade.
-
-Persistência constrói o extraordinário.
-
-<br>
-
-```text
-STATUS: ONLINE 🟢
-FOCO: EVOLUÇÃO 🚀
-```
-
-```
-</td>
-```
+    </td>
 
   </tr>
 </table>
@@ -125,19 +132,28 @@ FOCO: EVOLUÇÃO 🚀
 
 ### 🎨 Frontend & Mobile
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,flutter,dart" alt="Frontend and Mobile Technologies" />
+<img
+  src="https://skillicons.dev/icons?i=html,css,js,ts,react,flutter,dart"
+  alt="Frontend and Mobile Technologies"
+/>
 
 <br><br>
 
 ### ⚙️ Backend & Database
 
-<img src="https://skillicons.dev/icons?i=nodejs,python,java,firebase,mongodb,mysql,postgres" alt="Backend and Database Technologies" />
+<img
+  src="https://skillicons.dev/icons?i=nodejs,python,java,firebase,mongodb,mysql,postgres"
+  alt="Backend and Database Technologies"
+/>
 
 <br><br>
 
 ### 🔧 Tools & Environment
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux,docker" alt="Development Tools" />
+<img
+  src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux,docker"
+  alt="Development Tools"
+/>
 
 </div>
 
@@ -147,20 +163,21 @@ FOCO: EVOLUÇÃO 🚀
 
 <div align="center">
 
-<a href="https://github.com/lucasmjv1?tab=repositories">
+  <p>
+    💡 Projetos em destaque: estou constantemente desenvolvendo,
+    testando e aprimorando novas aplicações.
+  </p>
 
-<img
-src="https://img.shields.io/badge/🚀%20Ver%20meus%20projetos-6e40c9?style=for-the-badge&logo=github&logoColor=white"
-alt="Ver todos os projetos"
-/>
+  <br>
 
-</a>
+  <a href="https://github.com/lucasmjv1?tab=repositories">
+    <img
+      src="https://img.shields.io/badge/🚀%20VER%20MEUS%20PROJETOS-6e40c9?style=for-the-badge&logo=github&logoColor=white"
+      alt="Ver meus projetos"
+    />
+  </a>
 
 </div>
-
-<br>
-
-> 💡 **Projetos em destaque:** em breve. Estou constantemente desenvolvendo e aprimorando novas aplicações.
 
 ---
 
@@ -168,24 +185,28 @@ alt="Ver todos os projetos"
 
 <div align="center">
 
-<img
-height="180"
-src="https://github-readme-stats.vercel.app/api?username=lucasmjv1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&locale=pt-br"
-alt="GitHub Statistics"
-/>
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=lucasmjv1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&locale=pt-br"
+    alt="GitHub Statistics"
+  />
 
-<img
-height="180"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmjv1&layout=compact&theme=tokyonight&langs_count=8&hide_border=true&locale=pt-br"
-alt="Most Used Languages"
-/>
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmjv1&layout=compact&theme=tokyonight&langs_count=8&hide_border=true&locale=pt-br"
+    alt="Most Used Languages"
+  />
 
-<br><br>
+</div>
 
-<img
-src="https://github-readme-streak-stats.herokuapp.com/?user=lucasmjv1&theme=tokyonight&hide_border=true"
-alt="GitHub Contribution Streak"
-/>
+<br>
+
+<div align="center">
+
+  <img
+    src="https://streak-stats.demolab.com?user=lucasmjv1&theme=tokyonight&hide_border=true"
+    alt="GitHub Contribution Streak"
+  />
 
 </div>
 
@@ -195,11 +216,11 @@ alt="GitHub Contribution Streak"
 
 <div align="center">
 
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=lucasmjv1&theme=tokyo-night&hide_border=true&area=true"
-width="95%"
-alt="GitHub Contribution Graph"
-/>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=lucasmjv1&theme=tokyo-night&hide_border=true&area=true"
+    width="95%"
+    alt="GitHub Contribution Graph"
+  />
 
 </div>
 
@@ -209,54 +230,83 @@ alt="GitHub Contribution Graph"
 
 <div align="center">
 
-|        🚀 Área       | 🎯 Foco                    |
-| :------------------: | :------------------------- |
-|   💻 **FullStack**   | React + Node.js            |
-|     📱 **Mobile**    | Flutter + Dart             |
-|    ⚙️ **Backend**    | APIs + Firebase            |
-|   🗄️ **Database**   | SQL + NoSQL                |
+| 🚀 Área | 🎯 Foco |
+| :---: | :--- |
+| 💻 **FullStack** | React + Node.js |
+| 📱 **Mobile** | Flutter + Dart |
+| ⚙️ **Backend** | APIs + Firebase |
+| 🗄️ **Database** | SQL + NoSQL |
 | 🏗️ **Architecture** | Clean Code + boas práticas |
-|     🎨 **UI/UX**     | Interfaces modernas        |
+| 🎨 **UI/UX** | Interfaces modernas |
 
 </div>
 
 ---
 
-# 🔥 Objetivos
+# 💡 Filosofia
 
 <div align="center">
 
-```text
-[x] Aprimorar desenvolvimento FullStack
-[x] Desenvolver aplicações Mobile
+> ### `"Disciplina vence motivação."`
 
-[ ] Criar projetos maiores e mais completos
-[ ] Aprofundar arquitetura de software
-[ ] Criar aplicações escaláveis
-[ ] Contribuir para Open Source
-[ ] Construir um portfólio profissional
-```
+<br>
+
+**Código transforma ideias em realidade.**
+
+**Persistência constrói o extraordinário.**
+
+<br>
+
+`while (dreams != reality) { code(); }`
 
 </div>
 
 ---
 
+# 📚 Objetivos
+
+- 🚀 Evoluir como desenvolvedor FullStack
+- 📱 Criar aplicações Mobile completas
+- 🏗️ Aprender arquitetura de software
+- 🔌 Desenvolver APIs escaláveis
+- 🗄️ Aprofundar conhecimentos em bancos de dados
+- 🎨 Criar interfaces modernas e intuitivas
+- 🌎 Construir produtos digitais que gerem impacto
+
+---
+
+# 🤝 Vamos Conectar?
+
 <div align="center">
 
-### 💜 Building the future, one line of code at a time.
+  <a href="https://github.com/lucasmjv1">
+    <img
+      src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
+  </a>
+
+  <a href="https://www.instagram.com/lucas_adrian3467">
+    <img
+      src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=white"
+      alt="Instagram"
+    />
+  </a>
+
+</div>
 
 <br>
 
-<img
-src="https://capsule-render.vercel.app/api?type=waving&color=6e40c9&height=100&section=footer"
-width="100%"
-alt="Footer"
-/>
+<div align="center">
 
-<br>
+  ### 💜 Let's build the future together.
 
-<sub>
-  Desenvolvido por <b>Lucas Adriel</b> 🚀
-</sub>
+  <br>
+
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=6e40c9&height=100&section=footer"
+    width="100%"
+    alt="Footer"
+  />
 
 </div>
