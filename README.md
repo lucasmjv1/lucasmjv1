@@ -88,7 +88,7 @@ Olá! Eu sou **Lucas Adriel**, desenvolvedor em formação apaixonado por tecnol
 
 ### 🧑‍💻 Desenvolvedor
 
-```text
+
 Lucas Adriel
 
 FullStack Developer
@@ -123,3 +123,62 @@ Mobile Developer
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux,docker" />
 
 </div>
+
+
+---
+
+# 🚀 Projetos em Destaque
+
+<div align="center">
+
+<a href="https://github.com/lucasmjv1?tab=repositories">
+  <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=lucasmjv1&repo=SEU_REPOSITORIO&theme=tokyonight&hide_border=true"
+    width="400"
+  />
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<a href="https://github.com/lucasmjv1?tab=repositories">
+  <img
+    src="https://img.shields.io/badge/🚀%20Ver%20todos%20os%20projetos-6e40c9?style=for-the-badge"
+    alt="Ver projetos"
+  />
+</a>
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img
+  height="180"
+  src="https://github-readme-stats.vercel.app/api?username=lucasmjv1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&locale=pt-br"
+  alt="GitHub Stats"
+/>
+
+<img
+  height="180"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmjv1&layout=compact&theme=tokyonight&langs_count=8&hide_border=true&locale=pt-br"
+  alt="Top Languages"
+/>
+
+<br><br>
+
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=lucasmjv1&theme=tokyonight&hide_border=true"
+  alt="GitHub Streak"
+/>
+
+</div>
+
+
+
