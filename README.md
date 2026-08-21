@@ -77,50 +77,37 @@ Olá! Eu sou **Lucas Adriel**, desenvolvedor em formação apaixonado por tecnol
 
 <table>
   <tr>
-
+```text
     <td width="50%" valign="top">
-
       <h3>🧑‍💻 Desenvolvedor</h3>
-
       <p>
         <strong>Lucas Adriel</strong>
       </p>
-
       <p>
         FullStack Developer<br>
         Mobile Developer
       </p>
-
       <p>
         🎓 ADS — UniFECAF<br>
         📍 Minas Gerais, Brasil<br>
         🚀 Sempre evoluindo
       </p>
-
     </td>
-
     <td width="50%" valign="top">
-
       <h3>🧠 Mindset</h3>
-
       <p>
         <strong>"Disciplina vence motivação."</strong>
       </p>
-
       <p>
         Código transforma ideias em realidade.
       </p>
-
       <p>
         Persistência constrói o extraordinário.
       </p>
-
       <p>
         <em>— Lucas Adriel</em>
       </p>
-
     </td>
-
   </tr>
 </table>
 
