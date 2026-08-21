@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- BANNER -->
-  <img src="./banner-anime.png" width="100%" alt="Lucas Adriel - Developer Banner"/>
+  <img src=" <img width="1536" height="420" alt="lucas_adriel_github_banner" src="https://github.com/user-attachments/assets/20e9fd00-c94b-465b-8218-f2d1d531677c" />" width="100%" alt="Lucas Adriel - Developer Banner"/>
 
   <br><br>
 
