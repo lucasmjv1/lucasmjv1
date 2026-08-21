@@ -32,27 +32,6 @@
   <!-- SOCIAL -->
   <!-- ===================================================== -->
 
-  <a href="https://github.com/lucasmjv1">
-    <img
-      src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"
-      alt="GitHub"
-    />
-  </a>
-
-  <a href="https://www.instagram.com/lucas_adrian3467">
-    <img
-      src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=white"
-      alt="Instagram"
-    />
-  </a>
-
-  <img
-    src="https://komarev.com/ghpvc/?username=lucasmjv1&label=PROFILE%20VIEWS&color=6e40c9&style=for-the-badge"
-    alt="Profile Views"
-  />
-
-</div>
-
 ---
 
 # 🚀 Sobre Mim
