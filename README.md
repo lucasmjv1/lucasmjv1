@@ -190,9 +190,6 @@ Olá! Eu sou **Lucas Adriel**, desenvolvedor em formação apaixonado por tecnol
 **Persistência constrói o extraordinário.**
 
 <br>
-
-`while (dreams != reality) { code(); }`
-
 </div>
 
 ---
@@ -233,7 +230,7 @@ Olá! Eu sou **Lucas Adriel**, desenvolvedor em formação apaixonado por tecnol
 
 <div align="center">
 
-  ### 💜 Let's build the future together.
+  ### 💜 Vamos construir o futuro juntos.
 
   <br>
 
